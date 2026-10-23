@@ -1,0 +1,42 @@
+02CounterProject/.gitignore
+  h_fa11d6ea9eb7e2 1-24
+02CounterProject/README.md
+  h_fa11d6ea9eb7e2 1-16
+02CounterProject/eslint.config.js
+  h_fa11d6ea9eb7e2 1-21
+02CounterProject/index.html
+  h_fa11d6ea9eb7e2 1-13
+02CounterProject/package-lock.json
+  h_fa11d6ea9eb7e2 1-2477
+02CounterProject/package.json
+  h_fa11d6ea9eb7e2 1-27
+02CounterProject/public/favicon.svg
+  h_fa11d6ea9eb7e2 1
+02CounterProject/public/icons.svg
+  h_fa11d6ea9eb7e2 1-24
+02CounterProject/src/App.css
+  h_fa11d6ea9eb7e2 1-184
+02CounterProject/src/App.jsx
+  h_fa11d6ea9eb7e2 1-26
+02CounterProject/src/assets/react.svg
+  h_fa11d6ea9eb7e2 1
+02CounterProject/src/assets/vite.svg
+  h_fa11d6ea9eb7e2 1
+02CounterProject/src/index.css
+  h_fa11d6ea9eb7e2 1-111
+02CounterProject/src/main.jsx
+  h_fa11d6ea9eb7e2 1-10
+02CounterProject/vite.config.js
+  h_fa11d6ea9eb7e2 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a83b488d55ebdd710e86eecf167855350afd2330",
+  "prompts": {},
+  "humans": {
+    "h_fa11d6ea9eb7e2": {
+      "author": "Poonam Kashyap <poonam.kashyap@hcl-software.com>"
+    }
+  }
+}
