@@ -1,0 +1,36 @@
+01viteReact/.gitignore
+  h_fa11d6ea9eb7e2 1-24
+01viteReact/README.md
+  h_fa11d6ea9eb7e2 1-16
+01viteReact/eslint.config.js
+  h_fa11d6ea9eb7e2 1-21
+01viteReact/index.html
+  h_fa11d6ea9eb7e2 1-13
+01viteReact/package-lock.json
+  h_fa11d6ea9eb7e2 1-2477
+01viteReact/package.json
+  h_fa11d6ea9eb7e2 1-27
+01viteReact/public/favicon.svg
+  h_fa11d6ea9eb7e2 1
+01viteReact/public/icons.svg
+  h_fa11d6ea9eb7e2 1-24
+01viteReact/src/App.jsx
+  h_fa11d6ea9eb7e2 1-14
+01viteReact/src/chai.jsx
+  h_fa11d6ea9eb7e2 1-7
+01viteReact/src/main.jsx
+  h_fa11d6ea9eb7e2 1-9
+01viteReact/vite.config.js
+  h_fa11d6ea9eb7e2 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77e1dd42b8b0041ebff20dcb955722cf5d4191cf",
+  "prompts": {},
+  "humans": {
+    "h_fa11d6ea9eb7e2": {
+      "author": "Poonam Kashyap <poonam.kashyap@hcl-software.com>"
+    }
+  }
+}
